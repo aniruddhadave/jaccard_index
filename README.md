@@ -4,7 +4,12 @@ Jaccard Index Computation
 This package provides computation Jaccard Index based on n-grams for strings. This can be used as a metric for computing similarity between two strings e.g. Indentity resolution
 
 ## Installation
-Unpack the archive and run as root:
+
+Install using pip:
+```
+#  pip install jaccard-index 
+```
+To install using the archive, unpack it and run:
 ```
 # python setup.py install
 ```
